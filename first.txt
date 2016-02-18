@@ -1,3 +1,5 @@
 This is a original first text file.
 
 This line is inserted at 1st_branch.
+
+This line is inserted at 2nd_branch.
